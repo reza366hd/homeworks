@@ -74,8 +74,6 @@ func operator(first int, oprator string, second int) (result int) {
 	return result
 }
 
-func request()
-
 func sixteen() {
 	var history []int
 
